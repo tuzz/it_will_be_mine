@@ -16,7 +16,3 @@ it_will_be_mine?('it_will_be_mine') # => false
 
 will_it_be_mine?('supercalifragilisticexpialidocious')
 ```
-
-**Be warned,** Rubygems may not be too happy if you start DOSing them.
-
-Twitter: [@cpatuzzo](https://twitter.com/#!/cpatuzzo)
